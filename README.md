@@ -1,2 +1,2 @@
 # SkinScanX
-Skin disease prediction and advicory application.
+Skin disease prediction and advisory application.
